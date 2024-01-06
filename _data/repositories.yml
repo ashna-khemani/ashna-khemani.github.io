@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - ashna-khemani
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - ashna-khemani/ML-course
+  - ashna-khemani/cnn-examples
+  - ashna-khemani/three-body-prob
+  - ashna-khemani/TippingPoint21-22
+  - ashna-khemani/gpt
+  - ashna-khemani/clawbot
+  - ashna-khemani/ashna-khemani.github.io
+  - ashna-khemani/meam-1470
