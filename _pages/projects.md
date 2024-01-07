@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of my cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [coursework, vex, fun]
 horizontal: false
 ---
 
@@ -17,6 +17,12 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_projects = site.projects | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Display short description for each category -->
+    {% for project in site.projects %}
+      {% if project.category == category %}
+        <p>{{ project.cat_descr }}</p>
+      {% endif %}
+    {% endfor %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">
