@@ -6,7 +6,7 @@ subtitle: Mechanical Engineering Undergrad @ University of Pennsylvania
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: # need to add
   image_circular: false # crops the image to make it circular
   more_info: >
     
