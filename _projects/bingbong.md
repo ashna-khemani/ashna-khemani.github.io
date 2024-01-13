@@ -3,11 +3,11 @@ layout: page
 title: bing bong
 description: turning point (2018-19)
 img: assets/img/bingbong.jpg
-importance: 4
+importance: 2
 category: vex
 ---
 
-
+*Robot name origin: The character Bing Bong from the Pixar movie* Inside Out. *It's a long story.*
 Armed with the knowledge from my first year, I was determined to push myself further into the unknown and reach the next level: the World Championship. 
 
 This year's challenge already seemed to be harder than stacking cones from last season. It involved launching balls at flags, which required more precision (official game video is [here](https://www.youtube.com/watch?v=CDDGBcs0TFM)). More than intimidating, I saw it as a chance to try some brand new ideas and designs.
@@ -43,14 +43,13 @@ I had explored autonomous driving in my first season, and found it fascinating a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <!-- {% include video.liquid path="assets/video/bingbong-skills-vid.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %} -->
-        {% include video.liquid path="https://youtu.be/O-UtX7C9HWw" class="img-fluid rounded z-depth-1" %}
+        <iframe width="747" height="376" src="https://www.youtube.com/embed/O-UtX7C9HWw" title="VEX 2075A Turning Point Skills" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        
     </div>
 </div>
 <div class="caption">
     A successful run of Bing Bong driving autonomously.
 </div>
-
 
 Exploring autonomous systems was not just satisfying. My Skills challenge scores qualified us for the World Championship for the first time! It was an unforgettable experience, meeting some of the best and brightest peers from all over the world, and getting to bond with my own team. I knew I'd have to come back!
 <div class="row">
