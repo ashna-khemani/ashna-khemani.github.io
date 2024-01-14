@@ -6,7 +6,7 @@ subtitle: Mechanical Engineering Undergrad @ University of Pennsylvania
 
 profile:
   align: right
-  image: # need to add
+  image: ashna.png
   image_circular: false # crops the image to make it circular
   more_info: >
     
