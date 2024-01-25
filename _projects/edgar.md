@@ -12,7 +12,7 @@ category: vex
 Curveball for this year: doing the entire season virtually and with fewer sponsors (thanks COVID).
 But I made it work. [Here's](https://www.youtube.com/watch?v=Hxs0q9UoMDQ) the challenge video for Change Up.
 
-With limited resources (and space in garages and living rooms), build took longer this year, and it was easy to feel frustrated and hopeless. But we did the best we could using what we had, and created Edgar. Though he didn't look super clean and made rattly noises when driving, he worked, and that's what I cared about for now.
+With limited resources (and space in garages and living rooms), build took longer this year, and it was easy to feel frustrated. But I did the best I could using what I had, and created Edgar. Though it didn't look as clean as previous builds, it worked, and that's what I cared about for now.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -20,20 +20,21 @@ With limited resources (and space in garages and living rooms), build took longe
     </div>
 </div>
 <div class="caption">
-    Edgar, a somewhat demented but very functional robot made entirely out of scrap pieces we happened to have on hand.
+    Edgar, a somewhat demented but very functional robot made almost entirely out of scrap pieces I happened to have on hand.
 </div>
 
 **Cool subsystems and specs:**
-- Not a subsystem but you'd be surprised how much Edgar relies on rubberbands, masking tape, and friction mesh.
 - Torqued down (sped) powertrain (in this virtual season, there were no heavy loads to push or other bots to defensively push around. But there *was* a need for speed)
+- Ball indexer with limit switch for easy ball management
+  - Edgar could hold up to 3 balls. This system would automatically "lock and load" them to just under the outtake/launcher, so all I had to do as the driver was pull the trigger to deposit the ball into a goal
+- Not a subsystem but you'd be surprised how much Edgar relies on rubberbands, masking tape, and friction mesh.
 - PID control! Scroll to the bottom for code.
 
 From our realization last year, I decided to focus pretty much entirely on the Skills challenge this year, especially since the Virtual Tournaments were similar to Skills anyway. 
 
 Again, with a ton of driving strategy and practice, I was able to get close to maxing out the highest possible score in the Driver Skills challenge.
-***video coming soon
 
-Though I had an autonomous code last year I knew it could be, in the words of Daft Punk, "better, faster, stronger." I therefore started use sensors beyond the quadrature encoders we had been relying on, implementing ultrasonic sensors and an IMU. They were a step up, but I had heard of **PID control**, which I was dying to try. I worried that it might be a waste of time and not be worth it, but I jumped in. It took many Google searches, YouTube videos, and failed tests that nearly broke Edgar, but I finally got excellent PID loop for driving.
+Though I had a working autonomous program last year, I knew it could be, in the words of Daft Punk, "better, faster, stronger." I therefore started use sensors beyond the quadrature encoders we had been relying on, implementing ultrasonic sensors and an IMU. They were a step up, but I had heard of **PID control**, which I was dying to try. I worried that it might be a waste of time and not be worth it, but I jumped in. It took many Google searches, YouTube videos, and failed tests, but I finally got excellent PID loop for driving.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <iframe width="747" height="376" src="https://www.youtube.com/embed/iapxfOCZfn8" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -63,7 +64,7 @@ void drivePI(double targetDistance) {
   timer errorTimer = timer();
   errorTimer.clear();
   FrontRightMotor
-      .resetRotation(); // used front right motor to control driving distance
+      .resetRotation(); 
   FrontLeftMotor.resetRotation();
 
   while ((fabs(error) > maxAllowedError) && (timerExpired == false)) {
@@ -74,8 +75,6 @@ void drivePI(double targetDistance) {
     error = targetDistance - currentDistance;
     errorSum += error;
     deltaE = (error - lastError) / 5000;
-    //** deltaE = (lastError - error)/-500? How do u get the value of the error
-    //at a given time IN EQUAL INTERVALS)??
     motorspeed = (error * kP) + (errorSum * kI) + (deltaE * kD);
 
     BackLeftMotor.spin(directionType::fwd, motorspeed, velocityUnits::pct);
