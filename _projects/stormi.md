@@ -72,6 +72,11 @@ This was the week of March 13, 2020... the fateful week where many schools (incl
 I was definitely bummed that I couldn't showcase Stormi at the next levels of competition, but I for sure felt very proud of what I had achieved. I not only won some comps, but developed more confidence in my design skills, and a much stronger knack for Skills that would play a big part next year...
 
 (In the meantime, my team and I made cool pyramids lol)
-<center>
-    {% include figure.html path="assets/img/cube-pyramid.jpg" title="example image" class="img-fluid rounded z-depth-1" width=300%}
-</center>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/cube-pyramid.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A stunning pyramid of cubes made in my garage.
+</div>
