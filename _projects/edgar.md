@@ -50,12 +50,11 @@ Hyperfocusing on Skills helped me become a stronger all-rounder, and my team won
 And this helped me not only qualify for the (Virtual) World Championship, but even get to the **Division Semifinals**. I had started the year skeptical of what I could achieve with limited resources, but I believe I truly made the best of it, learned, and reached a level higher than I'd ever expected.
 
 ### PID Code
-If you're curious, the PID code (well, technically it's more of a PI) can be viewed [here](https://github.com/anandananya/Vex2021ChangeUp/blob/6523d6ddc1525c1b23637f820998c39f9accd091/World%20v1%20050921/src/bot-functions.cpp#L79C1-L79C1).
-Here it is copied (in-progress comments and all...):
+If you're curious, the PID code (well, technically it's more of a PD) can be viewed [here](https://github.com/anandananya/Vex2021ChangeUp/blob/6523d6ddc1525c1b23637f820998c39f9accd091/World%20v1%20050921/src/bot-functions.cpp#L79C1-L79C1).
+Here it is copied:
 
 ```c++
-void drivePI(double targetDistance) {
-  // Brain.Screen.print("HEY BESTIE UWU");
+void drivePD(double targetDistance) {
   double motorspeed = 0, currentDistance = 0,
          error = (targetDistance - currentDistance), errorSum = 0, deltaE = 0,
          lastError = 0, maxAllowedError = 0.75, errorTimerMax = 50;
