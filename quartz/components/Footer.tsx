@@ -13,10 +13,9 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+        <p>© {year} <a href="https://ashna-khemani.github.io">Ashna Khemani</a>'s brain.
         </p>
+        <p></p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
@@ -24,6 +23,8 @@ export default ((opts?: Options) => {
             </li>
           ))}
         </ul>
+        <a href="https://notbyai.fyi"><img src="/not-by-ai.png" alt="Crafted by a human" /></a>
+
       </footer>
     )
   }
