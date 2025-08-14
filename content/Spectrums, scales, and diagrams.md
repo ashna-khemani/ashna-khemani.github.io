@@ -15,15 +15,16 @@ I also love making things on (what used to be called) [draw.io](https://app.diag
 	* python, matlab, excel
 
 # Alignment Charts
-At the end of junior year at Penn, my friend group had a PowerPoint night. Mine was placing everyone on a bunch of different alignment charts. It was called, "you don't need astrology. you just need friends :)"
+At the end of junior year at Penn, my friend group had a PowerPoint night. Mine was getting everyone to graph everyone on a bunch of different alignment charts. It was called, "you don't need astrology. you just need friends :)"
 
 The first six are the originals from that, and the rest I came across/thought of later.
 
 Formatted as: left - right | bottom - top
 * 4 da vine - straight shooter | chaos - order
-* Shark tank - Huntsman | Pink Drink - Monster
-	* Shark Tank and Huntsman: two study spots at Penn. Shark Tank is the most rancid ass 2000's backrooms windowless bright white light room in the whole campus. It's where you go to lock in without realizing when the sun has set and when it's has once again risen. It's where you go to lose a little humanity during finals. Huntsman is one of the most coveted study spots on campus; super fresh modern nice warm Wharton building. People who study there are noticeable more sane.
-	* Pink Drink and Monster: Starbucks cute pink drink. Monster energy drink. Enough said. 
+* Shark tank - Huntsman | Pink Drink - Monster *(some context below)*
+	* Shark Tank and Huntsman: two study spots at Penn. 
+		* Shark Tank is the most rancid ass 2000's backrooms windowless bright white light room in the whole campus. It's where you go to lock in without realizing when the sun has set and when it's has once again risen. It's where you go to lose a little humanity during finals. 
+		* Huntsman is one of the most coveted study spots on campus; super fresh modern nice warmly-lit Wharton building. It's also where you go for a finals cram, but with more friends, hope in your heart, and light in your eyes. People who study there are noticeably more sane.
 * Cryptid - social butterfly | high intelligence - high wisdom
 	* ![[Pasted image 20250813201900.png|400]]
 * Lurker - main character | peacekeeper - instigator

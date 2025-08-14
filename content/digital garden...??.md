@@ -35,7 +35,12 @@ As of writing this, here's why I'm starting this digital garden:
 * I do a lot of journaling just for myself, in a little notebook, at least 1-2x/wk. I think it'd be cool to preserve some insights by sharing them. I sometimes start random little lists of things, but it's obviously pretty hard to find and edit them among all the pages. I want to **avoid getting lost in the sauce** of weekly reflections/deeper pondering.
 	* Having this collection of more developed thought would also be a nice way to get an overview of how my philosophies, goals, self-expression, and vibe of life change over time.
 ## How I can achieve this
-* prob gonna write like i text j to get my ideas out there. may or may not revisit to polish tbh, idrk yet lol
+* prob gonna write like i text j to get my ideas out there. may or may not revisit to polish tbh, idrk yet lol. So...
+
+> [!Warning] Fair warning
+> Shit's gonna be a little unfiltered
+
+
 * Jot down a list of things I eventually want to write about in my private Notion space
 * I want to see this grow! Dedicate a bit of my weekend time to growing this.
 
@@ -43,3 +48,5 @@ As of writing this, here's why I'm starting this digital garden:
 > Knowing myself, it's gonna be hard to dedicate that much time to this while I'm in school, since my brain will probably be occupied by a lot of other things. But hopefully whenever some half-baked idea strikes me, I'll just jot it down! And on those late nights where I can't sleep but also don't wanna work, I'll flesh it out a bit more :D
 
 * Not obsessing over trying to perfect a piece/note, because the expectation *is* that it's gonna grow/evolve/change over time. Initially sorta a quantity-over-quality mindset... almost... maybe?
+
+
