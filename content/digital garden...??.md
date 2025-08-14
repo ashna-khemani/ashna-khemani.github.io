@@ -1,11 +1,11 @@
 ---
-title: a blurb
+title: 
 draft: false
 date: 2025-08-13
 tags: 
 enableToc: true
 ---
-# Sources
+# What I found
 I came across the concept of a digital garden while I was thinking about updating my portfolio, since it's about 1.5 years out of date.
 
 "Wow, what a cool way to procrastinate on that!" I said.
@@ -28,14 +28,18 @@ I found some guidance/inspiration on why/how to maintain a garden, what to write
 ## My motivation (starting out)
 As of writing this, here's why I'm starting this digital garden:
 * **Stock/raw material is a cool description.** My goal starting is to be more "raw." Not like emotionally raw/deep, but just having more intention to put words to thought, and develop them.
-* Being an engineering student also means I don't write much, beyond lab reports. I think that's a part of my brain that I need actively exercise.
+* Being an engineering student also means **I don't write much**, beyond lab reports. I think that's a part of my brain that I need to actively exercise.
 	* I actually used to write a lot as a kid, mostly 1-page-bit comics and some short stories. Would be cool to revisit this hobby.
-* Def important to exercise the power of language especially since I feel like language (especially humor) is kinda... converging to a few very common words these days ("cooked," "crazy," "lowkey," "ate").
+* Def important to **exercise the power of original language and expression** especially since I feel like language (especially humor) is kinda... converging to a few very common words these days ("cooked," "crazy," "lowkey," "ate").
 	* I am extremely guilty of this.
-* I do a lot of journaling just for myself, in a little notebook, at least 1-2x/wk. I think it'd be cool to preserve some insights by sharing them. I sometimes start random little lists of things, but it's obviously pretty hard to find and edit them among all the pages. I also don't want them to get lost in the sauce of weekly reflections/deeper pondering.
+* I do a lot of journaling just for myself, in a little notebook, at least 1-2x/wk. I think it'd be cool to preserve some insights by sharing them. I sometimes start random little lists of things, but it's obviously pretty hard to find and edit them among all the pages. I want to **avoid getting lost in the sauce** of weekly reflections/deeper pondering.
 	* Having this collection of more developed thought would also be a nice way to get an overview of how my philosophies, goals, self-expression, and vibe of life change over time.
 ## How I can achieve this
-* Prob gonna write like I do in my notes/`methinks.md` doc. May or may not revisit to polish
+* prob gonna write like i text j to get my ideas out there. may or may not revisit to polish tbh, idrk yet lol
 * Jot down a list of things I eventually want to write about in my private Notion space
 * I want to see this grow! Dedicate a bit of my weekend time to growing this.
-* Not obsessing over trying to perfect a piece, because the expectation is that it's gonna grow/evolve/change over time. Initially sorta a quantity-over-quality mindset... almost... maybe?
+
+> [!INFO] Caveat
+> Knowing myself, it's gonna be hard to dedicate that much time to this while I'm in school, since my brain will probably be occupied by a lot of other things. But hopefully whenever some half-baked idea strikes me, I'll just jot it down! And on those late nights where I can't sleep but also don't wanna work, I'll flesh it out a bit more :D
+
+* Not obsessing over trying to perfect a piece/note, because the expectation *is* that it's gonna grow/evolve/change over time. Initially sorta a quantity-over-quality mindset... almost... maybe?

@@ -1,10 +1,15 @@
 ---
 title: "'sup!"
+draft: false
+date: 2025-08-12
+tags: 
+enableToc: true
 ---
 > *"Greetings, loved ones. Let's take a journey."*
 > 
 > *- Snoop Dogg*
 
+# Intro
 Not sure what's gonna end up here! Just thoughts as they come 🤠
 I probably won't start with a [[digital garden...??|blurb]] about how I came across the concept of a digital garden or what it is, because I don't know:
 1. If that's what this is
