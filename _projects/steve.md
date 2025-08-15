@@ -2,7 +2,7 @@
 layout: page
 title: steve
 description: in the zone (2017-18)
-cat_descr: As part of all-girls Team 2075A {Access Denied}, I took my first major foray into engineering. I was nervous at first, but as I discovered the engineering design process through trial and iteration, I found myself learning a lot and having fun. Alongside hands-on work with a team, I learned how to professionally present myself to judges and alliance teams. Through designing, building, coding, and competing with the robots showcased below, I learned lessons that I know will be critical wherever I go. VEX has been a major highlight of my engineering experience, and is the reason why I'm here today.
+cat_descr: My first true engineering experience.
 img: assets/img/steve-collapsed.jpg
 
 importance: 1
