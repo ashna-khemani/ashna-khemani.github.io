@@ -5,7 +5,7 @@ permalink: /projects/
 description: Stuff I've done.
 nav: true
 nav_order: 3
-display_categories: [courses, fun, vex]
+display_categories: [coursework, fun, vex]
 horizontal: false
 ---
 
