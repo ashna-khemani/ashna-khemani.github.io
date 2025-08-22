@@ -9,7 +9,6 @@ enableToc: true
 > 
 > *- Snoop Dogg*
 
-# Intro
 Not sure what's gonna end up here! Just thoughts as they come 🤠
 I probably won't start with a [[digital garden...??|blurb]] about how I came across the concept of a digital garden or what it is, because I don't know:
 1. If that's what this is
@@ -18,8 +17,10 @@ I probably won't start with a [[digital garden...??|blurb]] about how I came acr
 So... hence the quote 😃
 
 I *do* know, however, that as a D1 Certified Yapper, this seems like a fun outlet for me (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-# Why is this called... \*checks notes\* methinks.md?
-*methinks = "it appears to me", "I think"*
+
+*<u>**Why is this called... \*checks notes\* methinks.md?**</u>*
+
+*methinks = "it appears to me", "I think"* 
 
 Whenever I work on large projects, one of the first things I do is make a file called `methinks.md`. Which is just a huge running to-do list, brain dump, and inner monologue of thoughts. I take little effort to go back and clean it up, or organize it, because it's useful to have a paper trail of what I was thinking. (It's organic... kind of like a garden...)
 
