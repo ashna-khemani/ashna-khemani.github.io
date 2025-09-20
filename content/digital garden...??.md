@@ -14,12 +14,12 @@ It originally seemed... I dunno, almost pretentious? Like why are people sharing
 
 I found some guidance/inspiration on why/how to maintain a garden, what to write about, and some pretty nifty examples. Gonna compile them here.
 
-| Link                                                         | What it is                                                                                   | Key takeaways                                                                                                     |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| https://lyz-code.github.io/blue-book/digital_garden/         | Quick intro to what a digital garden is, and useful advice on how to make a long-lasting one | Store and maintain knowledge.<br>Meant to be revisited. <br>Be wary of link rot!                                  |
-| https://notes.nicolevanderhoeven.com/Fork+My+Brain           | Example/inspo of a well-cultivated garden!                                                   | Can put like... everything here                                                                                   |
-| https://tomcritchlow.com/2019/02/17/building-digital-garden/ | ==the page everyone talks about.==                                                           | Gardens = way of maintaining stock (see below), raw material for making thoughts. A long-running log of thoughts. |
-| https://snarkmarket.com/2010/4890/                           | =="Stock and flow"==                                                                         |                                                                                                                   |
+| Link                                                         | What it is                                                                                   | Key takeaways                                                                                                      |
+| ------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| https://lyz-code.github.io/blue-book/digital_garden/         | Quick intro to what a digital garden is, and useful advice on how to make a long-lasting one | Store and maintain knowledge.<br>Meant to be revisited. <br>Be wary of link rot!                                   |
+| https://notes.nicolevanderhoeven.com/Fork+My+Brain           | Example/inspo of a well-cultivated garden!                                                   | Can put like... everything here                                                                                    |
+| https://tomcritchlow.com/2019/02/17/building-digital-garden/ | ==the page everyone talks about.==                                                           | Gardens = way of maintaining stock (see below), raw material for making thoughts.  A long-running log of thoughts. |
+| https://snarkmarket.com/2010/4890/                           | =="Stock and flow"==                                                                         |                                                                                                                    |
 
 # What do I think?
 * Can write over a huge range of stuff → **don't hold back or worry about sticking to a particular vibe or theme!**
