@@ -25,6 +25,7 @@ I found some guidance/inspiration on why/how to maintain a garden, what to write
 * Can write over a huge range of stuff → **don't hold back or worry about sticking to a particular vibe or theme!**
 	* This also ties into what Critchlow mentioned about digital gardens being less "performative"
 	* My take: that's not to say all bloggers/content creators on the internet are performative. But I like the idea of digital gardens since it's a more *willful commitment* to not be performative. "v1,", "v2," "finalmaybe," and "final_for_real" are all equally visible!
+	
 ## My motivation (starting out)
 As of writing this, here's why I'm starting this digital garden:
 * **Stock/raw material is a cool description.** My goal starting is to be more "raw." Not like emotionally raw/deep, but just having more intention to put words to thought, and develop them.
@@ -48,5 +49,21 @@ As of writing this, here's why I'm starting this digital garden:
 > Knowing myself, it's gonna be hard to dedicate that much time to this while I'm in school, since my brain will probably be occupied by a lot of other things. But hopefully whenever some half-baked idea strikes me, I'll just jot it down! And on those late nights where I can't sleep but also don't wanna work, I'll flesh it out a bit more :D
 
 * Not obsessing over trying to perfect a piece/note, because the expectation *is* that it's gonna grow/evolve/change over time. Initially sorta a quantity-over-quality mindset... almost... maybe?
+
+# Methods
+Tons of writing out there on how to "produce knowledge." Easy to get frustrated and pressured, so maybe I will try to make sense of it here lmao.
+
+## Zettelkasten
+
+> [!QUOTE] Steps
+> 1. Fleeting notes to capture thoughts
+> 2. Literature note to quote and reference content (acquisition of knowledge)
+> 3. Permanent notes to link and develop (sharing of knowledge)
+> 4. Saving permanent notes in the "slipbox"
+> 
+> [Source](https://anthonyamar.fr/Zettelkasten/The+zettelkasten+method+and+how+to+take+smart+notes)
+
+
+
 
 
