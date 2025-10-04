@@ -5,11 +5,7 @@ date: 2025-10-04
 tags:
 enableToc: true
 ---
-Title: by default, the title of this note will be visible title. However, if you want to make it something different, use the `title` field!
 
-Draft: check the box if you want to hide this page
-
-Date: by default, the date this note was made (?) is what's used. If you want to override, type in a date here
 Book: _Difficult Conversations_, by Stone, Patton, and Heen
 
 - Difficult convos have a common structure if you pay attention to what’s NOT said…
@@ -18,12 +14,12 @@ Book: _Difficult Conversations_, by Stone, Patton, and Heen
 
 # The 3 Conversations happening
 
-## "What happened?”
+## “What happened?”
 * Disagreement on what has happened / should happen. Who’s to blame? What do we do now?
 * Where most of the time is spent
 ### Truth
 - Assumption: I'm right, you're wrong. Is this a fair assumption?
-- Difficult convos are not about facts, they're about interpretation and action → what is **important**
+- Difficult convos are not about facts, they're about interpretation and action → what is **important** 
 	- Ex: both agree the brochure is wrong, disagreement is whether it matters and how to handle it if so
 - 💡 shift purpose from proving you're right → understand perception, interpretation, and values of both sides. Ask questions, how is everyone making sense of world.
 	- → note that this is NOT "the truth"! people tend to get tangled in what they *perceive as "truth"*; not productive
