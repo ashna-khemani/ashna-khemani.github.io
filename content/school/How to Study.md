@@ -41,7 +41,7 @@ I don't know a lot of people who like these as much as I do, and I kinda just...
 1. **Skim through lecture/recitation notes** (maybe slides if my notes suck) to structure a study guide
 	* Note topics, terms, formulas to look out for
 	* So we remember what we need to understand in detail
-2. Use this overview to make a study **schedule**! Lock in on just 1-2 topics (ideally) to understand the "guts" of each day. **Populate the study guide**
+2. Use this overview to make a study **schedule**! Lock in on just 1-2 topics (ideally) to understand the "guts" of each topic. **Populate the study guide**
 	* Refer to lecture notes if they're good, textbook if it's good, or find a playlist on YouTube
 	* Note any points of confusion, anything your ≤95% sure of. Set aside time to ask about it in office hours
 		* I personally don't like asking about theoretical questions on online forums because reading is a weaker medium for me. I like talking face-to-face
