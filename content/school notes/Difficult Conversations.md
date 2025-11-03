@@ -195,7 +195,7 @@ Book: _Difficult Conversations_, by Stone, Patton, and Heen
 ### Imagine it's 3mo or 10yr later
 - Will you eventually feel better?
 - Will it still seem important?
-- Think if future self looking back on this. What do you think you'll have learned? How will you feel aout how you handled it? What advice would future you give yourself now?
+- Think if future self looking back on this. What do you think you'll have learned? How will you feel about how you handled it? What advice would future you give yourself now?
 
 ### Take a break
 * Ask for time to think about what you've heard
