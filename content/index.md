@@ -9,6 +9,11 @@ enableToc: true
 > 
 > *- Snoop Dogg*
 
+yoo does this work lmao
+
+
+
+
 Not sure what's gonna end up here! Just thoughts as they come 🤠
 I probably won't start with a [[digital garden...??|blurb]] about how I came across the concept of a digital garden or what it is, because I don't know:
 1. If that's what this is
