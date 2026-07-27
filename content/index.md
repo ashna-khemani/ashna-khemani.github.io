@@ -1,8 +1,8 @@
 ---
 title: "'sup!"
 draft: false
-date: 2025-08-12
-tags: 
+date:
+tags:
 enableToc: true
 ---
 > *"Greetings, loved ones. Let's take a journey."*
