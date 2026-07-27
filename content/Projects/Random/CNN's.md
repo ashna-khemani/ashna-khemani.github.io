@@ -1,0 +1,1 @@
+to learn how CNNs / image classification works.

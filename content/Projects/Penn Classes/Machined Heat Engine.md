@@ -1,0 +1,1 @@
+MEAM 2010 -- machine design, intro machining
