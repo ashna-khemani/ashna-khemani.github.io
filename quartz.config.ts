@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "methinks.md",
+    pageTitle: "Ashna Khemani",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
