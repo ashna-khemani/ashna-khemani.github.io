@@ -1,5 +1,5 @@
 ---
-title: "Projects: Penn Classes"
+title:
 draft: false
 date:
 tags:

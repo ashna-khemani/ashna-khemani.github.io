@@ -1,5 +1,5 @@
 ---
-title: Projects Home
+title: Projects
 draft: false
 date:
 tags:
