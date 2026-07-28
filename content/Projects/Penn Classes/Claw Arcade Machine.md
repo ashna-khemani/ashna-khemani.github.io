@@ -20,6 +20,7 @@ I was responsible for the X-Y gantry, making the D-pad controller, and integrati
 ![[3480Lab3deadprinter.jpg|280]]
 
 The biggest challenge was honestly integrating all our systems together; they were developed pretty separately across different lab sessions. Pictured below is what it looked like before we integrated everything into a single cohesive system.
+
 ![[3480Lab3backend.jpg|309]]
 
 Originally, I made the D-pad with mechanical keyboard switches and 3D printed keycaps, but we were forced to pivot to pushbuttons and a breadboard at 2am the night before because my at-the-time noob level soldering skills couldn't stand the test of pro gamer moves 🙃.
