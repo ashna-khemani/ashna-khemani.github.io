@@ -1,5 +1,5 @@
 ---
-title:
+title: Penn Classes
 draft: false
 date:
 tags:

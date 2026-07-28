@@ -1,12 +1,13 @@
 *MEAM 3480 Junior Spring Mechanical Engineering Lab*
 
-A fun project for ~vibes~ 
+A fun project for vibes ✨
 
 **Goal**: Configure the spring-mass-damper constants for a pendulum suspended in a tower, such that when the tower experiences an impact, the shaking in the tower structure itself is mitigated. Accurately predict the motion of our model building in an "earthquake" caused by an impact at the base.
 
 The first step was recognizing which quantities we could physically measure, which quantities we could then estimate, and how we could use those to determine an ODE that modeled our building's behavior.
 
 We then implemented this math in a simple Python script that could be used to plot the generated ODE vs. the observed motion measured using an accelerometer and Arduino (code is at the end of this page). This, and our Arduino instrumentation, was first tested on the classic predictable system of a cantilever fixed at one end and impacted by a instantaneous force at the other (clamping a steel bar to a table and flicking the end).
+
 ![[3480Lab2barvibe.png|332]]
 
 We then extend the same logic to the tower system, which was built like the one in [this video](https://youtu.be/f1U4SAgy60c?si=qMZKgFVw6oyrCQmF&t=431). The result was a slightly underdamped system with a log decrement of δ≈4. This was one of the best in class 😄
