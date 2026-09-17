@@ -1,5 +1,5 @@
 
-*MEAM 3480 Junior Spring Mechanical Engineering Lab*
+*MEAM 3480 Junior Spring Mechanical Engineering Lab (spring 2025)*
 
 This was my final project for junior year, and it was super fun.
 

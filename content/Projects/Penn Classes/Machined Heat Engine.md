@@ -1,4 +1,4 @@
-*MEAM 2010 -- machine design, intro machining*
+*MEAM 2010: machine design, intro machining (fall 2024)*
 
 ![[2010HeatEngine.jpg|458]]
 

@@ -1,4 +1,4 @@
-*MEAM 3480 Junior Spring Mechanical Engineering Lab*
+*MEAM 3480 Junior Spring Mechanical Engineering Lab (spring 2025)*
 
 A fun project for vibes ✨
 

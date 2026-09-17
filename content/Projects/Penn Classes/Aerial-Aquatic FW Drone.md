@@ -1,4 +1,4 @@
-*ESE 4500/4510: Electrical Engineering Senior Design*
+*ESE 4500/4510: Electrical Engineering Senior Design (fall 2025 - spring 2026)*
 
 **Goals**: 
 - VTOL with forward flight → fixed-wing tail-sitter bicopter, capable of transitioning between "glider" mode that uses the fixed wings to travel longer distances, and "copter" mode that uses the rotors vertically to hover.

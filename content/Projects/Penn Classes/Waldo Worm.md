@@ -1,4 +1,4 @@
-*MEAM 5100: Mechatronics (grad level)*
+*MEAM 5100: Mechatronics grad level (fall 2025)*
 
 Would you still look at my portfolio if I was a worm?
 
