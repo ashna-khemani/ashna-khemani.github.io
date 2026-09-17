@@ -21,3 +21,6 @@ Things I do in the wild: journaling, swing dancing (west coast, Lindy Hop), eati
 
 > [!tip] Check out my projects!
 > Head over to the [[Projects/index|Projects]] page 😁
+
+>[!abstract]
+>Or check out my [[Resume|resume]] for some fast facts

@@ -11,7 +11,7 @@ Some of my favorite projects are featured below:
 
 |                               |                             |
 | ----------------------------- | --------------------------- |
-| ![[SnrDesPic.jpg\|321]]       | [[Aerial-Aquatic FW Drone]] |
+| ![[SnrDesPic.jpg\|321]]       | [[Aerial-Aquatic Tailsitter Drone]] |
 | ![[3480Lab3backend.jpg\|289]] | [[Claw Arcade Machine]]     |
 | ![[2010HeatEngine.jpg\|319]]  | [[Machined Heat Engine]]    |
 | ![[edgar.png\|319]]           | [[Year 4 - edgar]]          |
